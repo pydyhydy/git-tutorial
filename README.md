@@ -2,7 +2,7 @@
 
   - feature-A
   - fix-B
-  skip C
+  - skip C
   - feature D by another guy but me
 
 
